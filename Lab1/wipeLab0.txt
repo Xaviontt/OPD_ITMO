@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod u+rwx lab0/jellycent1/gorebyss lab0/jellycent1 lab0/rapidash0
+rm -rf lab0

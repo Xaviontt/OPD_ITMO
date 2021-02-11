@@ -1,0 +1,16 @@
+#!/bin/bash
+
+chmod u+w /home/s311708/lab0/jellycent1
+chmod u+w /home/s311708/lab0/chimchar3
+chmod u+w /home/s311708/lab0/rapidash0/clefable/
+
+ln /home/s311708/lab0/dustox1 /home/s311708/lab0/jellycent1/bidoofdustox
+cp /home/s311708/lab0/tangrowth8 /home/s311708/lab0/jellycent1/bidooftangrowth
+ln -s /home/s311708/lab0/klingklang7 /home/s311708/lab0/chimchar3/phanpyklinklang
+cp /home/s311708/lab0/klingklang7 /home/s311708/lab0/rapidash0/clefable/
+ln -s /home/s311708/lab0/chimchar3 /home/s311708/lab0/Copy_44
+cat /home/s311708/lab0/rapidash0/forretress /home/s311708/lab0/chimchar3/phanpy > /home/s311708/lab0/dustox1_72
+
+chmod u-w /home/s311708/lab0/jellycent1
+chmod u-w /home/s311708/lab0/chimchar3
+chmod u-w /home/s311708/lab0/rapidash0/clefable/

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+read
+mkdir test1
+read
+mkdir test2
+read
+mkdir test3

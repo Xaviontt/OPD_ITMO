@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd lab0
+rm -r klingklang7
+rm -r rapidash0/forretress
+rm -r chimchar3/phanpyklinkla*
+rm -rf jellycent1/bidoofdust*
+rm -r chimchar3
+
+chmod u+w jellycent1/mightyena
+chmod u+w jellycent1
+
+rm -r jellycent1/mightyena

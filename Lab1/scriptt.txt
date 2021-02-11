@@ -1,0 +1,51 @@
+#!/bin/bash
+
+mkdir lab0
+cd lab0
+mkdir chimchar3 jellicentl rapidash0
+touch dustox1 klinklang7 tangrowth8
+cat >> dustox1 << EOF
+Способности Swarm Venom
+Shield Dust Effect Spore
+EOF
+cat >> klingklang7 << EOF
+Возможности Overland=1
+Sky=9 Jump=1 Power=1 Intelligence=5 Zapper=0
+EOF
+cat >> tangrowth8 << EOF
+Способности Sleep Powder Vine Whip Absorb
+Poisonpowder Bind Growth Mega Drain Knock Off Stun Spore Natural Gift
+Giga Drain Ancientpower Slam Tickle Wring Out Power Whip Block
+EOF
+cd chimchar3
+touch phanpy
+mkdir exploud yanma
+cat >> phanpy << EOF
+Живёт Forest Mountain
+EOF
+cd ..
+cd jellecentl
+mkdir mightyena gorebyss
+touch remoraid bidoof
+cat >> remoraid << EOF
+weight=26.5 height=24.0 atk=7
+def=4
+EOF
+cat >> bidoof << EOF
+Тип диеты Herbivore
+EOF
+cd ..
+cd rapidash0
+touch beautifly forretress goldeen
+mkdir clefable
+cat >> beautifly << EOF
+Развитые способности Rivalry
+EOF
+cat >> forretress << EOF
+Тип
+покемона BUG STEEL
+EOF
+cat >> goldeen << EOF
+weight=33.1 height=24.0 atk=7
+def=6
+EOF

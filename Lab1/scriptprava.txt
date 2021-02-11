@@ -1,0 +1,19 @@
+#!/bin/bash
+
+chmod 571 /home/s311708/lab0/chimchar3
+chmod g+w /home/s311708/lab0/chimchar3/phanpy
+chmod 317 /home/s311708/lab0/chimchar3/exploud
+chmod 330 /home/s311708/lab0/chimchar3/yanma
+chmod u-w,g-r,o+w /home/s311708/lab0/dustox1
+chmod u=rx,g=x,o=w /home/s311708/lab0/jellycent1
+chmod 551 /home/s311708/lab0/jellycent1/mightyena
+chmod 751 /home/s311708/lab0/jellycent1/gorebyss
+chmod u-rwx,g-rwx,o=r /home/s311708/lab0/jellycent1/remoraid
+chmod u=r,g=r,o-rwx /home/s311708/lab0/jellycent1/bidoof
+chmod u=rw,g-rwx,o=r /home/s311708/lab0/klingklang7
+chmod 330 /home/s311708/lab0/rapidash0
+chmod u=r,g-rwx,o-rwx /home/s311708/lab0/rapidash0/beautifly
+chmod 644 /home/s311708/lab0/rapidash0/forretress
+chmod u=rx,g=rwx,o=wx /home/s311708/lab0/rapidash0/clefable
+chmod u=rw,g-rwx,o=r /home/s311708/lab0/rapidash0/goldeen
+chmod 600 /home/s311708/lab0/tangrowth8

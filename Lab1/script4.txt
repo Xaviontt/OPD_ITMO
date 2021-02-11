@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cd lab0
+
+wc -l chimchar3/phanpy jellycent1/remoraid jellycent1/bidoof rapidash0/beautifly rapidash0/forretress | sort -r
+ls -lRu | grep "1$" | tail -3
+(cat *1 -n | sort -r) 2> /tmp/311708
+(cat */*y -n | sort) 2> /tmp/311708  
+(cat */g* | sort -r) 2> /tmp/311708
+
+cd rapidash0
+
+(cat */* * | grep -iv "Gi") 2> /tmp/311708

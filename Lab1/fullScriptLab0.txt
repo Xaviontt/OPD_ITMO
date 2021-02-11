@@ -1,0 +1,11 @@
+#!/bin/bash
+
+./script
+
+./scriptprava
+
+./script3
+
+./script4
+
+./script5
